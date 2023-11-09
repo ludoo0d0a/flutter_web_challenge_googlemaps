@@ -1,0 +1,54 @@
+repo_name: ludoo0d0a/flutter_web_challenge_googlemaps
+report_id: 37417428b434d59017923351872a83b2
+repo_type: Public
+timestamp: '2023-11-09T21:36:01+00:00'
+requested_by: ditclear
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: build_runner
+  description: A build system for Dart code generation and modular compilation
+  package_url: https://pub.dartlang.org/build_runner
+  version: 1.5.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: ditclear
+  last_updated_on: 2019-06-02 05:06:04.000000000 Z
+- name: build_web_compilers
+  description: Builder implementations wrapping the dart2js and DDC compilers
+  package_url: https://pub.dartlang.org/build_web_compilers
+  version: 2.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: ditclear
+  last_updated_on: 2019-06-02 05:06:04.000000000 Z
